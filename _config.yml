@@ -1,4 +1,6 @@
 theme: jekyll-theme-cayman
+name: Awesome Research Group
+
 navigation:
   - title: Home
     link: /

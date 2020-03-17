@@ -1,1 +1,12 @@
 theme: jekyll-theme-cayman
+navigation:
+  - title: Home
+    link: /
+  - title: People
+    link: /#people
+  - title: Research
+    link: /research.html
+  - title: Publications
+    link: /publications.html
+  - title: Code
+    link: /code.html

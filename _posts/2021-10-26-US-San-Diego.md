@@ -17,15 +17,15 @@ San Diego is the best city to live. The beautiful beach, the sunshine, and cute 
 
 ### Skyline of San Diego
 
-![image](../assets/blog/San_Diego_Skyline.jpeg)
+![image](/assets/blog/San_Diego_Skyline.jpeg)
 
 
 ### Statue's Kissing
-![image](../assets/blog/San_Diego_Kissing.jpeg)
+![image](/assets/blog/San_Diego_Kissing.jpeg)
 
 
 ### Sunset at Pacific
-![image](../assets/blog/San_Diego_Sunset.jpeg)
+![image](/assets/blog/San_Diego_Sunset.jpeg)
 
 
 

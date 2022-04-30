@@ -1,7 +1,6 @@
 ---
 title: "Seismic Waveform Modeling"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-feature_image: "../assets/research/Shallow_Wavefield_2D.gif"
+excerpt: "Numerical methods 1<br/><img src='../assets/research/Shallow_Wavefield_2D.gif'>"
 collection: portfolio
 ---
 

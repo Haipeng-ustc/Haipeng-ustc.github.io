@@ -16,27 +16,27 @@ Chicago, by Lake Michigan, is so unique. The architecture of its buildings, the 
 
 ### Skyline of Chicago
 
-![image](../assets/blog/Chicago_Skyline.jpg)
+![image](/assets/blog/Chicago_Skyline.jpg)
 
 
 
 ### City View of Chicago
 
-![image](../assets/blog/Chicago_Sky_Deck.jpeg)
+![image](/assets/blog/Chicago_Sky_Deck.jpeg)
 
-![image](../assets/blog/Chicago_Could_Gate.jpeg)
+![image](/assets/blog/Chicago_Could_Gate.jpeg)
 
-![image](../assets/blog/Chicago_Downtown_Night.jpeg)
+![image](/assets/blog/Chicago_Downtown_Night.jpeg)
 
 
 
 ### Art & Science Museums
 
-![image](../assets/blog/Chicago_Manet.jpeg)
+![image](/assets/blog/Chicago_Manet.jpeg)
 
-![image](../assets/blog/Chicago_Museum.jpeg)
+![image](/assets/blog/Chicago_Museum.jpeg)
 
 
 ### Lake Michigan
 
-![image](../assets/blog/Chicago_Lake.jpeg)
+![image](/assets/blog/Chicago_Lake.jpeg)

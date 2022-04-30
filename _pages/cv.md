@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Haipeng Li"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -16,14 +16,18 @@ Education
 * Research Assistant, University of Tulsa, USA,  Jan. 2019 – Jun. 2019
 * B.S. in Geophysics, China University of Petroleum (East China), 2019
 
-Work experience
+Employment
 ======
 * Jul. 2019 – Aug. 2019: Geophysics Intern
   * Saudi Aramco Beijing Research Center
   * Seismic wavefield modeling
   * Supervisor: Dr. Yi Luo
+
+
+
 Professional Skills
 ======
+
 * Programming: C, Fortran, Python, Julia, MATLAB, MPI, CUDA
 * Tools: GMT, SAC, SPECFEM2D/3D, Gmsh, CUBIT
 * Peer Reviewer for
@@ -31,6 +35,8 @@ Professional Skills
   * *Pure and Applied Geophysics*
   * *Acta Geophysica*
   * *Journal of Geophysics and Engineering*
+
+
 
 Awards & Honors
 ======

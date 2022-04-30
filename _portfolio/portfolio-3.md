@@ -1,7 +1,7 @@
 ---
 title: "Full-waveform Inversion"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-feature_image: "/assets/research/Shallow_Wavefield_2D.gif"
+feature_image: "../assets/research/Shallow_Wavefield_2D.gif"
 collection: portfolio
 ---
 
@@ -12,11 +12,11 @@ collection: portfolio
 
 ##### Marmousi Model Example 
 
-![image](assets/research/Marmousi_FWI.png)
+![image](../assets/research/Marmousi_FWI.png)
 
 ##### Field-data Application
 
-![image](assets/research/Full_Waveform_Inversion.png)
+![image](../assets/research/Full_Waveform_Inversion.png)
 
 
 

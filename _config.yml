@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Haipeng Li"
   avatar           : "profile.png"
-  bio              : "I'm a PhD student at Stanford University, exploration seismology"
-  location         : "Palo Alto, California 94305"
+  bio              : "I'm an incoming PhD student in exploration seismology at Stanford University, "
+  location         : "Palo Alto, CA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=CivCPJ4AAAAJ&hl=en"
   email            : "haipengl@mail.ustc.edu.cn"
   researchgate     :  "https://www.researchgate.net/profile/Haipeng-Li-13"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          :
   vine             :
   weibo            :
   xing             :

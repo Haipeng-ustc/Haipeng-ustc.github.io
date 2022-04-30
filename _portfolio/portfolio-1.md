@@ -1,7 +1,15 @@
 ---
-title: "Portfolio item number 1"
+title: "Seismic Waveform Modeling"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+feature_image: "/assets/research/Shallow_Wavefield_2D.gif"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+ * Study the seismic wave phenomenon using numerical methods, i.e., Finite Element Method, Spectral Element Method, and Finite Difference Method. 
+ * Develop novel absorbing boundary conditions in seismic wavefield simulation, i.e., PML and M-PML.
+
+  ![image](assets/research/Numerical_Modeling.png)
+  ![image](assets/research/Elastic_Wavefield_3D.gif)
+
+
+### 

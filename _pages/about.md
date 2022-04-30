@@ -24,8 +24,6 @@ Like many other Jekyll-based GitHub Pages templates, academicpages makes you sep
 
 
 
-
-
 I'm interested in
 ======
 1. Seismic Wave Phenomenon

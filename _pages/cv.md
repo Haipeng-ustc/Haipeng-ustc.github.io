@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 * Incoming Ph.D student in Geophysics, Stanford University
-
 * M.S. in Geophysics, University of Science and Technology of China, 2022
+* Research Assistant, University of Tulsa, USA,  Jan. 2019 – Jun. 2019
 * B.S. in Geophysics, China University of Petroleum (East China), 2019
 
 Work experience
@@ -22,11 +22,6 @@ Work experience
   * Saudi Aramco Beijing Research Center
   * Seismic wavefield modeling
   * Supervisor: Dr. Yi Luo
-* Jan. 2019 – Jun. 2019: Research Assistant
-  * University of Tulsa, USA
-  * Finite Elememt Method
-  * Supervisor: Prof. Jingyi Chen
-  
 Professional Skills
 ======
 * Programming: C, Fortran, Python, Julia, MATLAB, MPI, CUDA

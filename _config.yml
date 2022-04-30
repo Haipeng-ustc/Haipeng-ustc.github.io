@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "ImageX"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Haipeng Li"
 description              : &description "PhD student at Stanford University"
@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Haipeng Li"
   avatar           : "profile.png"
-  bio              : "I'm an incoming PhD student in exploration seismology at Stanford University, "
+  bio              : "I'm an incoming PhD student in exploration seismology at Stanford University"
   location         : "Palo Alto, CA"
   employer         :
-  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=CivCPJ4AAAAJ&hl=en"
   email            : "haipengl@mail.ustc.edu.cn"
-  researchgate     :  "https://www.researchgate.net/profile/Haipeng-Li-13"
+  researchgate     : "https://www.researchgate.net/profile/Haipeng-Li-13"
   uri              :
   bitbucket        :
   codepen          :

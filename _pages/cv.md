@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Haipeng Li"
+title: " "
 permalink: /cv/
 author_profile: true
 redirect_from:

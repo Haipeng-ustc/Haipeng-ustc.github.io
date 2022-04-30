@@ -10,10 +10,7 @@ redirect_from:
 
 
 
-I'm Haipeng Li
-======
-
-  * Currently, I'm a graduate student in geophysics at Laboratory of Seismology and Physics of Earth's Interior, University of Science and Technology of China.
+  * I'm Haipeng Li, Currently, I'm a graduate student in geophysics at Laboratory of Seismology and Physics of Earth's Interior, University of Science and Technology of China.
 
   * I'm interested in both exploration geophysics and seismology. Specifically, I utilize seismic tomography and migration methods to image subsurface structures, e.g., fault zones, the Moho topography, and so forth.
 

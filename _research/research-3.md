@@ -1,7 +1,7 @@
 ---
 title: "Full-waveform Inversion"
 excerpt: "None Linear Inversion <br/><img src='/assets/research/Marmousi_FWI.png'>"
-collection: portfolio
+collection: research
 ---
 
  * Develop a unified Full-waveform Inversion platform with features of two and three dimensions, acoustic and elastic medium, and high-performance computing.

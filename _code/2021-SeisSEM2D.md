@@ -1,8 +1,8 @@
 ---
 title: "SeisFEM2D"
-collection: teaching
+collection: code
 type: "Spectral Element Method"
-permalink: /teaching/2021-SeisSEM2D
+permalink: /code/2021-SeisSEM2D
 venue: "Spectral Element Method, Sesimic Wavefield Modeling"
 date: 2021-01-01
 #location: "City, Country"

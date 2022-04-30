@@ -1,7 +1,7 @@
 ---
 title: "Seismic Waveform Modeling"
 excerpt: "Numerical methods 1<br/><img src='../assets/research/Shallow_Wavefield_2D.gif'>"
-collection: portfolio
+collection: research
 ---
 
  * Study the seismic wave phenomenon using numerical methods, i.e., Finite Element Method, Spectral Element Method, and Finite Difference Method. 

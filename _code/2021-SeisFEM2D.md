@@ -1,8 +1,8 @@
 ---
 title: "SeisFEM2D"
-collection: teaching
+collection: code
 type: "Finite Element Method"
-permalink: /teaching/2021-SeisFEM2D
+permalink: /code/2021-SeisFEM2D
 venue: "Finite Element Method, Sesimic Wavefield Modeling"
 date: 2021-01-01
 #location: "City, Country"

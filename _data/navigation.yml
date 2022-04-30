@@ -2,11 +2,11 @@
 main:
 
 
-  - title: "Research"
-    url: /portfolio/
-
   - title: "CV"
     url: /cv/
+
+  - title: "Research"
+    url: /research/
 
   - title: "Publications"
     url: /publications/
@@ -15,7 +15,7 @@ main:
     url: /talks/    
 
   - title: "Open Code"
-    url: /teaching/    
+    url: /code/    
         
   - title: "Blog Posts"
     url: /year-archive/

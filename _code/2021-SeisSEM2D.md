@@ -1,6 +1,7 @@
 ---
 title: "SeisFEM2D"
-collection: code
+excerpt: "<br/><img src='/assets/code/SEM_waveforms.png'>"
+collection: Code
 type: "Spectral Element Method"
 permalink: /code/2021-SeisSEM2D
 venue: "Spectral Element Method, Sesimic Wavefield Modeling"

@@ -9,6 +9,15 @@ redirect_from:
 
 ## Motivations & Outline
 
+## Open Code Collection
+## Velocity Models
+
+## Theory of FWI
+
+## Inversion Gallery
+
+## Field-data Applications
+
 * Basic config options: _config.yml
 * Top navigation bar config: _data/navigation.yml
 * Single pages: _pages/

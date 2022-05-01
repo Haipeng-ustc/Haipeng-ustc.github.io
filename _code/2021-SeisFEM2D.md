@@ -1,6 +1,7 @@
 ---
 title: "SeisFEM2D"
-collection: code
+excerpt: "<br/><img src='/assets/code/SeisFEM2D.png'>"
+collection: Code
 type: "Finite Element Method"
 permalink: /code/2021-SeisFEM2D
 venue: "Finite Element Method, Sesimic Wavefield Modeling"

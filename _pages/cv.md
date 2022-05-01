@@ -24,10 +24,8 @@ Employment
   * Supervisor: Dr. Yi Luo
 
 
-
 Professional Skills
 ======
-
 * Programming: C, Fortran, Python, Julia, MATLAB, MPI, CUDA
 * Tools: GMT, SAC, SPECFEM2D/3D, Gmsh, CUBIT
 * Peer Reviewer for
@@ -37,25 +35,17 @@ Professional Skills
   * *Journal of Geophysics and Engineering*
 
 
-
 Awards & Honors
 ======
 
-* 2021: National Scholarship for Postgraduates, China
+* National Scholarship for Postgraduates, China, 2021
+* SEG Foundation/Chevron Scholarship, USA, 2021
+* SEG Michael C. Forrest Scholarship, USA, 2020
+* Stars of Self-improvement of College Students, China, 2019
+* Honorary International Exchange Student, Oklahoma, USA, 2019
+* Mathematical Contest in Modeling, Meritorious Winner, USA, 2018
+* National Scholarship, China, 2016, 2017 & 2018
 
-* 2021: SEG Foundation/Chevron Scholarship, USA
-
-* 2020: SEG Michael C. Forrest Scholarship, USA
-
-* 2019: Stars of Self-improvement of College Students, China
-
-* 2019: Honorary International Exchange Student, Oklahoma, USA
-
-* 2018: Mathematical Contest in Modeling, Meritorious Winner, USA
-
-* 2016, 2017 & 2018: National Scholarship, China
-
-  
 
 Publications
 ======
@@ -83,4 +73,4 @@ Memberships
 
 <br/>
 
-last updated in 04/2022
+Last updated in 04/2022

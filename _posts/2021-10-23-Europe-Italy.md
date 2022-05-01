@@ -6,7 +6,10 @@ excerpt: |
   Vedi Napoli e poi muori.
 feature_text: |
   ## Naples, Italy
-feature_image: "https://picsum.photos/2560/600?image=872"
+tags:
+  - category1
+  - category2
+  - Travel
 ---
 
 Vedi Napoli e poi muori: see Naples and then die...

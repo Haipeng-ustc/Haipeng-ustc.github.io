@@ -18,10 +18,7 @@ Education
 
 Employment
 ======
-* Jul. 2019 – Aug. 2019: Geophysics Intern
-  * Saudi Aramco Beijing Research Center
-  * Seismic wavefield modeling
-  * Supervisor: Dr. Yi Luo
+* Jul. 2019 – Aug. 2019: Geophysics Intern, Saudi Aramco Beijing Research Center
 
 
 Professional Skills
@@ -46,9 +43,13 @@ Awards & Honors
 * Mathematical Contest in Modeling, Meritorious Winner, USA, 2018
 * National Scholarship, China, 2016, 2017 & 2018
 
+Memberships
+======
+* 2021-present: Society of Exploration Geophysicists (SEG)
+
 
 <!--Publications-->
-======
+<!-- ====== -->
 <!-- 
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
@@ -61,15 +62,12 @@ Awards & Honors
   {% endfor %}</ul> -->
 
 <!--code-->
-======
+<!-- ======
   <ul>{% for post in site.code %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
 
-Memberships
+
+
 ======
-* 2021-present: Society of Exploration Geophysicists (SEG)
-
-
-
 Last updated in 04/2022

@@ -47,20 +47,20 @@ Awards & Honors
 * National Scholarship, China, 2016, 2017 & 2018
 
 
-Publications
+<!--Publications-->
 ======
 
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Talks
+<!--Talks-->
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
-code
+<!--code-->
 ======
   <ul>{% for post in site.code %}
     {% include archive-single-cv.html %}
@@ -69,8 +69,7 @@ code
 Memberships
 ======
 * 2021-present: Society of Exploration Geophysicists (SEG)
-* 2020-present: European Association of Geoscientists and Engineers (EAGE)
 
-<br/>
+
 
 Last updated in 04/2022

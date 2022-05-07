@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Haipeng Li and currently am a graduate student in geophysics at Laboratory of Seismology and Physics of Earth's Interior, University of Science and Technology of China.  I'm interested in both exploration geophysics and seismology. My research interests include:
+Hi, I am Haipeng Li and currently am a graduate student in geophysics at Laboratory of Seismology and Physics of Earth's Interior, University of Science and Technology of China.  
+
+I'm interested in both exploration geophysics and seismology. My research interests include:
 
 - Seismic Wavefield Modeling 
   - Spectral Element Method (SEM)

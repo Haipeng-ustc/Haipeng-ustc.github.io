@@ -1,6 +1,6 @@
 ---
 title: "Full-waveform Inversion"
-excerpt: "None Linear Inversion <br/><img src='/assets/research/Marmousi_FWI.png'>"
+excerpt: "Nonelinear Seismic Inversion <br/><img src='/assets/research/FWI-Field-data.png'>"
 collection: research
 ---
 

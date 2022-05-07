@@ -1,6 +1,6 @@
 ---
 title: "Seismic Structural Imaging"
-excerpt: "Transmitted surface wave Reverse Time Migration <br/><img src='/assets/research/Structural_Imaging.png'>"
+excerpt: "Transmitted surface wave Reverse Time Migration <br/><img src='/assets/research/Imaging_method.png'>"
 collection: research
 ---
 

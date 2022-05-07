@@ -1,6 +1,6 @@
 ---
 title: "Seismic Waveform Modeling"
-excerpt: "Finite difference method and finite element method<br/><img src='/assets/research/Elastic_Wavefield_3D.gif'>"
+excerpt: "Finite difference method and finite element method<br/><img src='/assets/research/Elastic_waveform.png'>"
 collection: research
 ---
 

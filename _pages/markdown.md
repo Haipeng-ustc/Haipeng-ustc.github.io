@@ -6,27 +6,35 @@ redirect_from:
   - /md/
   - /markdown.html
 ---
+## Motivations
+under development
+## Theory of FWI
 
-## Motivations & Outline
 
-## Open Code Collection
+## Inversion Gallery
+
+   ![image](/assets/research/FWI-model-test.png)
+
+## Field-data Applications
+
+   ![image](/assets/research/FWI-Field-data.png)
 
 
 ## Velocity Models
 
-Below list some useful velocity models for testing the FWI algorithms. More velocity models and open data can be found on the SEG website: https://wiki.seg.org/wiki/Open_data
+Below list some useful velocity models for testing the FWI algorithms. More velocity models and open data can be found on the SEG website: [https://wiki.seg.org/wiki/Open_data]
 
-1. **Marmousi2 model**: https://wiki.seg.org/wiki/AGL_Elastic_Marmousi
+1. **Marmousi2 model**: [https://wiki.seg.org/wiki/AGL_Elastic_Marmousi]
 
    Martin, G. S., 2004, The Marmousi2 model, elastic synthetic data, and an analysis of imaging and AVO in a structurally complex environment: Master’s thesis. University of Houston
 
    Martin, G. S., Wiley, R., & Marfurt, K. J. (2006). Marmousi2: An elastic upgrade for Marmousi. *The leading edge*, *25*(2), 156-166.
 
-2. **Overthrust model**: https://wiki.seg.org/wiki/SEG/EAGE_Salt_and_Overthrust_Models 
+2. **Overthrust model**: [https://wiki.seg.org/wiki/SEG/EAGE_Salt_and_Overthrust_Models]
 
    Aminzadeh, F., Brac, J., Kunz, T., 1997. SEG/EAGE 3-D Salt and Overthrust Models. SEG/EAGE 3-D Modeling Series, No. 1: Distribution CD of Salt and Overthrust models, SEG book series.
 
-3. **SEAE-I model**: https://wiki.seg.org/wiki/SEAM 
+3. **SEAE-I model**: [https://wiki.seg.org/wiki/SEAM]
 
    Fehler, M., & Keliher, P. J. (2011). *SEAM Phase 1: Challenges of subsalt imaging in tertiary basins, with emphasis on deepwater Gulf of Mexico*. Society of Exploration Geophysicists.
 
@@ -36,14 +44,9 @@ Below list some useful velocity models for testing the FWI algorithms. More velo
 
 
 
+## Open Code Collection
 
-
-## Theory of FWI
-
-## Inversion Gallery
-
-## Field-data Applications
-
+<!-- 
 * Basic config options: _config.yml
 * Top navigation bar config: _data/navigation.yml
 * Single pages: _pages/
@@ -251,4 +254,4 @@ Still sticking with science and Isaac Newton's E = MC<sup>2</sup>, which should 
 
 ### Variable Tag
 
-This allows you to denote <var>variables</var>.
+This allows you to denote <var>variables</var>. -->

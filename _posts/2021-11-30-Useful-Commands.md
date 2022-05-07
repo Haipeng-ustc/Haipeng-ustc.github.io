@@ -4,11 +4,6 @@ categories:
 - Ideas
 excerpt: |
   This post presents some useful commands for Linux, Python, MATLAB, C & Fortran.
-feature_text: |
-  ## Linux, Python, MATLAB, C & Fortran
-  Try to make life easier
-feature_image: "https://picsum.photos/2560/600?image=733"
-image: "https://picsum.photos/2560/600?image=733"
 ---
 
 <!-- more -->

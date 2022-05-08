@@ -25,7 +25,7 @@ under development ...
 
 ## Velocity Models
 
-Below list some useful velocity models for testing the FWI algorithms. More velocity models and open data can be found on the SEG website: [https://wiki.seg.org/wiki/Open_data]
+Below list some useful velocity models for testing the FWI algorithms. More velocity models and open data can be found on the [SEG website](https://wiki.seg.org/wiki/Open_data)
 
 1. **Marmousi2 model**: [link](https://wiki.seg.org/wiki/AGL_Elastic_Marmousi)
 

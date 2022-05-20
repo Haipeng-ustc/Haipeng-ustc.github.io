@@ -16,10 +16,6 @@ Education
 * Research Assistant, University of Tulsa, USA,  Jan. 2019 – Jun. 2019
 * B.S. in Geophysics, China University of Petroleum (East China), 2019
 
-Employment
-======
-* Jul. 2019 – Aug. 2019: Geophysics Intern, Saudi Aramco Beijing Research Center
-
 
 Professional Skills
 ======

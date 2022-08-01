@@ -1,6 +1,6 @@
 ---
 permalink: /markdown/
-title: "Full-waveform Inversion (FWI)"
+title:
 author_profile: true
 redirect_from: 
   - /md/

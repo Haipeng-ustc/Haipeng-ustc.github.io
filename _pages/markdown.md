@@ -7,7 +7,7 @@ redirect_from:
   - /markdown.html
 ---
 
-## Publications
+## Journal Articles
 
 1. **Li, H.** & Li, J. (2022). SWIT: A GUI-based full-waveform inversion package with flexible workflow. *Under review*
 2. **Li, H.**, Li, J., Luo, S., Bem, S., Yao, H., & Huang, X. (2022). Continent-continent collision between the South and North China plates revealed by full-waveform inversion and deep seismic profiling at Tanlu fault zone. *In revision*.

@@ -8,18 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Haipeng Li and currently am a graduate student in geophysics at Laboratory of Seismology and Physics of Earth's Interior, University of Science and Technology of China.  
-
-I'm interested in both exploration geophysics and seismology. My research interests include:
-
+Hi, my name is Haipeng Li originally from China and I am a Ph.D. student at Stanford University. I obtained my M.S. and B.S. degrees in geophysics from the University of Science and Technology of China, and the China University of Petroleum (East China), respectively. Also, I once studied at the University of Tulsa in Oklahoma state, USA. I'm interested in both exploration geophysics and seismology, especially seismic waveform modeling, imaging, and inversion. I have developed my expertise in the following directions:
 - Seismic Wavefield Modeling 
   - Spectral Element Method (SEM)
   - Finite Element Method (FEM)
-  -  Theory of Absorbing Boundary Conditions (ABC)
-- Nonlinear Inversion & Seismic Imaging
+  - Theory of Absorbing Boundary Conditions (ABC)
+- Seismic Waveform Imaging & Inversion
+  -  Reverse Time Migration
   -  Full Waveform Inversion
   -  Ambient Noise Tomography
-  -  Reverse Time Migration
 - Tectonophysics & Distributed Acoustic Sensing techniques
 
     <img src="/images/Trips.png" alt="image" align = "right" width = "750" />

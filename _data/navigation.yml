@@ -9,10 +9,10 @@ main:
     url: /research/
 
   - title: "Publications"
-    url: /publications/
+    url: /markdown/
 
-  - title: "Talks"
-    url: /talks/    
+  # - title: "Talks"
+  #   url: /talks/    
 
   - title: "Open Code"
     url: /code/    
@@ -20,5 +20,5 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
     
-  - title: "FWI"
-    url: /markdown/
+  # - title: "FWI"
+  #   url: /markdown/

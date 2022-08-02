@@ -8,18 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-Hi, my name is Haipeng Li and I am a Ph.D. student at Stanford University. I obtained my M.S. degree in geophysics from the University of Science and Technology of China. Before that, I did my B.S. degree in geophysics at the China University of Petroleum (East China) and the University of Tulsa (Oklahoma, USA). I'm very interested in both exploration geophysics and seismology and try to bridge them together. Particularly, I have been fascinated by seismic waveform modeling, imaging, and inversion. I have developed my expertise in the following directions:
+Hi, my name is Haipeng Li and I am a Ph.D. student at Stanford University. I obtained my M.S. degree in geophysics from the University of Science and Technology of China. Before that, I did my B.S. degree in geophysics at the China University of Petroleum (East China) and the University of Tulsa. I'm very interested in both exploration geophysics and seismology and try to bridge them together. Particularly, I have been fascinated by seismic waveform modeling, imaging, and inversion. I have developed my expertise in the following directions:
 
-- Seismic Wavefield Modeling 
+- **Seismic Wavefield Modeling** 
   - Spectral Element Method (SEM)
   - Finite Element Method (FEM)
   - Theory of Absorbing Boundary Conditions (ABC)
-- Seismic Waveform Imaging & Inversion
+- **Seismic Waveform Imaging & Inversion**
   -  Reverse Time Migration (RTM)
   -  Full Waveform Inversion (FWI)
   -  Ambient Noise Tomography (ANT)
 
-At present, I'm exploiting Machine Learning techniques in seismic wave simulation. Also, I focus on investigating the emerging Distributed Acoustic Sensing (DAS) technique to resolve real-life problems including hydrocarbon exploration, urban environment monitoring, and hazard mitigation.
+At present, I'm exploiting *Machine Learning techniques* in seismic wave simulation. Also, I focus on investigating the *Distributed Acoustic Sensing (DAS)* to resolve real-life problems including hydrocarbon exploration, urban environment monitoring, and hazard mitigation.
 
 
 

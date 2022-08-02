@@ -22,11 +22,11 @@ Professional Skills
 * Programming: C, Fortran, Python, Julia, MATLAB, MPI, CUDA
 * Tools: GMT, SAC, SPECFEM2D/3D, Gmsh, CUBIT
 * Peer Reviewer for
-  * *Seismological Research Letters*
-  * *Science China: Earth Sciences*
-  * *Pure and Applied Geophysics*
-  * *Acta Geophysica*
-  * *Journal of Geophysics and Engineering*
+  * ***Seismological Research Letters***
+  * ***Science China: Earth Sciences***
+  * ***Pure and Applied Geophysics***
+  * ***Acta Geophysica***
+  * ***Journal of Geophysics and Engineering***
 
 
 Awards & Honors

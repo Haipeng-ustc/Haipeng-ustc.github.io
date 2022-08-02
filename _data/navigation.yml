@@ -20,5 +20,5 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
     
-  # - title: "FWI"
-  #   url: /markdown/
+  - title: "Resources"
+    url: /resources/

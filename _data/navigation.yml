@@ -11,8 +11,8 @@ main:
   - title: "Publications"
     url: /markdown/
 
-  # - title: "Talks"
-  #   url: /talks/    
+  - title: "Resources"
+    url: /resources/    
 
   - title: "Open Code"
     url: /code/    
@@ -20,5 +20,4 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
     
-  - title: "Resources"
-    url: /resources/
+

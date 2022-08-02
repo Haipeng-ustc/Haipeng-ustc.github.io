@@ -8,16 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-Hi, my name is Haipeng Li originally from China and I am a Ph.D. student at Stanford University. I obtained my M.S. and B.S. degrees in geophysics from the University of Science and Technology of China, and the China University of Petroleum (East China), respectively. Also, I once studied at the University of Tulsa in Oklahoma state, USA. I'm interested in both exploration geophysics and seismology, especially seismic waveform modeling, imaging, and inversion. I have developed my expertise in the following directions:
+Hi, my name is Haipeng Li originally from China and I am a Ph.D. student at Stanford University. I obtained my M.S. in geophysics from the University of Science and Technology of China. Before that,  I did my B.S. degree also in geophysics at the China University of Petroleum (East China) and the University of Tulsa in Oklahoma state, USA. I'm very interested in both exploration geophysics and seismology and try to bridge them together. Particularly, I have been fascinated by seismic waveform modeling, imaging, and inversion. I have developed my expertise in the following directions:
+
 - Seismic Wavefield Modeling 
   - Spectral Element Method (SEM)
   - Finite Element Method (FEM)
   - Theory of Absorbing Boundary Conditions (ABC)
 - Seismic Waveform Imaging & Inversion
-  -  Reverse Time Migration
-  -  Full Waveform Inversion
-  -  Ambient Noise Tomography
-- Tectonophysics & Distributed Acoustic Sensing techniques
+  -  Reverse Time Migration (RTM)
+  -  Full Waveform Inversion (FWI)
+  -  Ambient Noise Tomography (ANT)
+
+In the future, I want to exploit Machine Learning techniques in seismic wave simulation. Also, I aspire to take advantage of the emerging Distributed Acoustic Sensing technique to resolve real-life problems including hydrocarbon exploration, urban environment monitoring, and hazard mitigation.
+
 
     <img src="/images/Trips.png" alt="image" align = "right" width = "750" />
 

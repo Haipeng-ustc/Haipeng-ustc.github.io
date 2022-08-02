@@ -7,6 +7,11 @@ redirect_from:
   - /markdown.html
 ---
 
-## Slides
+## My Slides
 
-## Links
+## Useful Packages
+
+## Useful Datasets
+
+## Useful Commands
+

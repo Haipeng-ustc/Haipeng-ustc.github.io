@@ -12,10 +12,10 @@ main:
     url: /markdown/
 
   - title: "Resources"
-    url: /resources/    
+    url: /talks/
 
   - title: "Open Code"
-    url: /code/    
+    url: /code/
         
   - title: "Blog Posts"
     url: /year-archive/

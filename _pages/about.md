@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, my name is Haipeng Li and I am a Ph.D. student at Stanford University. I obtained my M.S. degree in geophysics from the University of Science and Technology of China. Before that, I did my B.S. degree in geophysics at the China University of Petroleum (East China) and the University of Tulsa. I'm very interested in both exploration geophysics and seismology and try to bridge them together. Particularly, I have been fascinated by seismic waveform modeling, imaging, and inversion. I have developed my expertise in the following directions:
+Hi, my name is Haipeng Li and I am a Ph.D. student at Stanford University. I obtained my M.S. degree in geophysics from the University of Science and Technology of China. Before that, I did my B.S. degree in geophysics at the China University of Petroleum (East China) and the University of Tulsa. My research interests include seismic waveform modeling, imaging, and inversion, and I have developed my expertise in the following directions:
 
 - **Seismic Wavefield Modeling** 
   - Spectral Element Method (SEM)

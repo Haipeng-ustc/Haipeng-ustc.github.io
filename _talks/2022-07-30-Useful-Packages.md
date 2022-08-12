@@ -19,7 +19,7 @@ excerpt: |
 - [SPECFEM3D_Cartesian](https://github.com/geodynamics/specfem3d): SPECFEM3D_Cartesian simulates acoustic (fluid), elastic (solid), coupled acoustic/elastic, poroelastic or seismic wave propagation in any type of conforming mesh of hexahedra (structured or not.)
 - [SW4](https://github.com/geodynamics/sw4): SW4 (Seismic Waves, 4th order) implements substantial capabilities for 3-D seismic modeling, with a free surface condition on the top boundary, absorbing super-grid conditions on the far-field boundaries, and an arbitrary number of point force and/or point moment tensor source terms.
 - [SALVUS](https://mondaic.com/): Salvus is a suite of software for performing full waveform modelling and inversion provided by Mondaic.
-## Seismic Imaging and Inversion
+## Seismic Imaging \& Inversion
 - [FWI.jl](https://github.com/JuliaInv/FWI.jl): A Julia package for solving the Full Waveform Inversion on a regular rectangular mesh
 - [PySIT](http://pysit.org/): PySIT is an open source toolbox for seismic inversion and seismic imaging developed by Russell J. Hewett and Laurent Demanet in the Imaging and Computing Group in the Department of Mathematics at MIT.
 - [SAVA](https://github.com/daniel-koehn/SAVA): 3D seismic modelling, FWI and RTM code for wave propagation in isotropic (visco)-acoustic/elastic and anisotropic orthorhombic/triclinic elastic media.
@@ -32,6 +32,12 @@ excerpt: |
 ## Seismic Signal Processing
 - [MathGeo2022](https://github.com/sevenysw/MathGeo2022): Seismic data denoising, regularization and so on.
 - [BIRGIT](https://github.com/daniel-koehn/BIRGIT): Pre- and Postprocessing tools for full waveform inversion (FWI) field data applications written in Matlab, Python and shell scripts.
+- [CurveLab](http://www.curvelet.org/): CurveLab is a toolbox implementing the Fast Discrete Curvelet Transform, both in Matlab and C++.
+- [PyCurvelab](https://github.com/slimgroup/PyCurvelab): Python interface to Curvelab
+
+## High Performance Computing
+- [Slurm](https://github.com/accre/SLURM): SLURM example scripts.
+
 
 ## Utilities
 - [GMT](https://gmt-china.org/)
@@ -39,4 +45,4 @@ excerpt: |
 - [PyGmsh](https://github.com/meshpro/pygmsh): Gmsh for Python
 - [SeismiGraphix](https://github.com/abelsurace/seismigraphix)
 - [SegDSee](https://www.softpedia.com/get/Science-CAD/SegDSee.shtml)
-- [Slurm](https://github.com/accre/SLURM): SLURM example scripts.
+

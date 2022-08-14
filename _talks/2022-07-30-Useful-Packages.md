@@ -21,6 +21,7 @@ excerpt: |
 - [SALVUS](https://mondaic.com/): Salvus is a suite of software for performing full waveform modelling and inversion provided by Mondaic.
 - [Devito](https://github.com/devitocodes/devito): Code generation framework for automated finite difference computation
 - [FDwave3D](https://github.com/leileely/FDwave3D): A Matlab solver for the 3D anisotropic wave equation using the finite-difference (FD) method.
+- [AxiSEM](https://github.com/geodynamics/axisem): A parallel spectral-element method to solve 3D wave propagation in a sphere with axisymmetric or spherically symmetric visco-elastic, acoustic, anisotropic structures.
 
 
 
@@ -55,6 +56,11 @@ excerpt: |
 - [PyGmsh](https://github.com/meshpro/pygmsh): Gmsh for Python
 - [SeismiGraphix](https://github.com/abelsurace/seismigraphix)
 - [SegDSee](https://www.softpedia.com/get/Science-CAD/SegDSee.shtml)
+- [iFEM](https://github.com/lyc102/ifem): a MATLAB software package containing robust, efficient, and easy-following codes for the main building blocks of adaptive finite element methods on unstructured simplicial grids in both two and three dimensions. 
+- [MUMPS](https://graal.ens-lyon.fr/MUMPS/index.php): **MU**ltifrontal **M**assively **P**arallel sparse direct **S**olve
+- [pardiso](https://www.pardiso-project.org/):  a thread-safe, high-performance, robust, memory efficient and easy to use software for solving large sparse symmetric and unsymmetric linear systems of equations on shared-memory and distributed-memory multiprocessors.
+- [sparseinv](https://cran.r-project.org/web/packages/sparseinv/index.html): Computation of the Sparse Inverse Subset
+- [sparsekit](https://people.math.sc.edu/Burkardt/f_src/sparsekit/sparsekit.html): a FORTRAN90 library which carries out a number of operations on sparse matrices, particularly conversion between various sparse formats.
 
 ## Learning Resources
 - [Lecture Notes on Inverse Theory](https://swp_ethz.gitlab.io/public/lecture_notes_inverse_theory/index.html)

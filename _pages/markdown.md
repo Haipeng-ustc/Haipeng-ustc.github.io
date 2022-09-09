@@ -10,10 +10,10 @@ redirect_from:
 ## Journal Articles
 1. **Li, H.** & Li, J. (2022). SWIT: A GUI-based full-waveform inversion package with flexible workflow. *Under review*
 2. **Li, H.**, Li, J., Luo, S., Bem, S., Yao, H., & Huang, X. (2022). Continent-continent collision between the South and North China plates revealed by full-waveform inversion and deep seismic profiling at Tanlu fault zone. *In revision*.
-3. **Li, H.** & Li, J. (2022). Earth’s interior imaging with transmitted wave reverse time migration: a numerical study. ***Bulletin of the Seismological Society of America***. [Download](https://doi.org/10.1785/0120210325)
-4. **Li, H.**, Chen, J., Zhao, Z., & Li, J. (2021). A multi-axial perfectly matched layer for finite-element time-domain simulation of anisotropic elastic wave propagation. ***Journal of Seismic Exploration***, *30*, 173-200. [Download](http://www.geophysical-press.com/online/VOL30-2_art4.pdf)
-5. **Li, H.**, Li, J., Gu, N., Gao, J., & Zhang, H. (2020). Ambient noise surface wave reverse time migration for fault imaging. ***Journal of Geophysical Research: Solid Earth***, *125*, e2020JB020381. [Download](https://doi.org/10.1029/2020JB020381)
-6. Qu, Y., Sun, J., Li, Z., Huang, J., **Li, H.**, & Sun, W. (2018). Forward modeling of ocean-bottom cable data and wave-mode separation in fluid–solid elastic media with irregular seabed. **<i>Applied Geophysics</i>**,15(3-4), 432-447. [Download](https://doi.org/10.1007/s11770-018-0699-0)
+3. **Li, H.** & Li, J. (2022). Earth’s interior imaging with transmitted wave reverse time migration: a numerical study. ***Bulletin of the Seismological Society of America***. [Link](https://doi.org/10.1785/0120210325)
+4. **Li, H.**, Chen, J., Zhao, Z., & Li, J. (2021). A multi-axial perfectly matched layer for finite-element time-domain simulation of anisotropic elastic wave propagation. ***Journal of Seismic Exploration***, *30*, 173-200. [Link](http://www.geophysical-press.com/online/VOL30-2_art4.pdf)
+5. **Li, H.**, Li, J., Gu, N., Gao, J., & Zhang, H. (2020). Ambient noise surface wave reverse time migration for fault imaging. ***Journal of Geophysical Research: Solid Earth***, *125*, e2020JB020381. [Link](https://doi.org/10.1029/2020JB020381)
+6. Qu, Y., Sun, J., Li, Z., Huang, J., **Li, H.**, & Sun, W. (2018). Forward modeling of ocean-bottom cable data and wave-mode separation in fluid–solid elastic media with irregular seabed. **<i>Applied Geophysics</i>**,15(3-4), 432-447. [Link](https://doi.org/10.1007/s11770-018-0699-0)
 
 
 ## Conference Abstracts
